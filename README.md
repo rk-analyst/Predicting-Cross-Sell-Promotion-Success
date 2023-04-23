@@ -94,4 +94,4 @@ Not following the model parameter requirements will result in a one grade band r
 
 ## Project Outcome
 
-Developed a predicitve model using Gradient Boosting Classifier with roc_auc of 0.63
+Developed a predicitve model using Decision Tree Classifier with roc_auc of 0.63
